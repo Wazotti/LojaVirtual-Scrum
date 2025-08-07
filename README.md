@@ -324,6 +324,10 @@ Os dados dos produtos foram simulados com arrays em JavaScript e são renderizad
 
 </details>
 
+### 👩‍💻 O que foi implementado por Maria Clara
+
+Todo o desenvolvimento do front-end, lógica em JavaScript, estrutura HTML, estilização com Tailwind, funcionalidade de carrinho, simulação de banco com arrays mockados, filtros, pesquisa, responsividade e organização em sprints foi feito por Maria Clara Mazotti, de forma individual.
+
 ---
 
 ## ✅ Vantagens da Metodologia
