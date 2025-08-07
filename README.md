@@ -65,263 +65,243 @@ Os dados dos produtos foram simulados com arrays em JavaScript e são renderizad
 ## 📅 Planejamento de Sprints
 
 <details>
-  <summary><strong>✅ Sprint 1 – Estrutura HTML base</strong></summary>
+  <summary><strong>✅ Sprint 1 – Configuração inicial do projeto</strong></summary>
 
-- **O que foi feito:** Criada a estrutura do `index.html` com os elementos básicos do site e links para scripts.  
+- **O que foi feito:** Configuração do HTML, CSS e JS iniciais.  
 - **Desenvolvedor:** Maria Clara  
-- **Período de desenvolvimento:** 1 dia  
+- **Período de desenvolvimento:** 7 dias  
 - **Período de testes:** 1 dia  
 - **Período de revisão:** 1 dia  
 - **Período de deploy:** 1 dia  
-- **Data:** 01/08/2025 – 02/08/2025  
-
+- **Data:** 01/08/2025 – 11/08/2025  
 </details>
 
 <details>
   <summary><strong>✅ Sprint 2 – Criação do array de produtos (mock)</strong></summary>
 
-- **O que foi feito:** Criado array `produtos[]` com objetos contendo nome, valor, categoria, imagem e estoque.  
+- **O que foi feito:** Criado array produtos[] com objetos contendo nome, valor, categoria, imagem e estoque.  
 - **Desenvolvedor:** Maria Clara  
-- **Período de desenvolvimento:** 1 dia  
+- **Período de desenvolvimento:** 9 dias  
 - **Período de testes:** 1 dia  
 - **Período de revisão:** 1 dia  
 - **Período de deploy:** 1 dia  
-- **Data:** 03/08/2025 – 04/08/2025  
-
+- **Data:** 12/08/2025 – 24/08/2025  
 </details>
 
 <details>
-  <summary><strong>✅ Sprint 3 – Renderização dinâmica dos produtos</strong></summary>
+  <summary><strong>✅ Sprint 3 – Exibição de produtos na página</strong></summary>
 
-- **O que foi feito:** Função `renderizarProdutos()` criada para exibir os produtos dinamicamente com base no array.  
+- **O que foi feito:** Renderização dinâmica dos produtos no HTML utilizando JavaScript.  
 - **Desenvolvedor:** Maria Clara  
-- **Período de desenvolvimento:** 1 dia  
+- **Período de desenvolvimento:** 6 dias  
 - **Período de testes:** 1 dia  
 - **Período de revisão:** 1 dia  
 - **Período de deploy:** 1 dia  
-- **Data:** 05/08/2025 – 06/08/2025  
-
+- **Data:** 25/08/2025 – 04/09/2025  
 </details>
 
 <details>
-  <summary><strong>✅ Sprint 4 – Estilização com Tailwind CSS</strong></summary>
+  <summary><strong>✅ Sprint 4 – Implementação da barra de busca</strong></summary>
 
-- **O que foi feito:** Aplicação do Tailwind nos cards de produto, header, botões e responsividade básica.  
+- **O que foi feito:** Adicionada funcionalidade de busca por nome de produto.  
 - **Desenvolvedor:** Maria Clara  
-- **Período de desenvolvimento:** 1 dia  
+- **Período de desenvolvimento:** 14 dias  
 - **Período de testes:** 1 dia  
 - **Período de revisão:** 1 dia  
 - **Período de deploy:** 1 dia  
-- **Data:** 07/08/2025 – 08/08/2025  
-
+- **Data:** 05/09/2025 – 22/09/2025  
 </details>
 
 <details>
-  <summary><strong>✅ Sprint 5 – Criação do filtro por categoria</strong></summary>
+  <summary><strong>✅ Sprint 5 – Filtro por categoria</strong></summary>
 
-- **O que foi feito:** Botões de categoria que filtram os produtos com a função `filtrarCategoria()`.  
+- **O que foi feito:** Criada funcionalidade para filtrar produtos por categoria.  
 - **Desenvolvedor:** Maria Clara  
-- **Período de desenvolvimento:** 1 dia  
+- **Período de desenvolvimento:** 7 dias  
 - **Período de testes:** 1 dia  
 - **Período de revisão:** 1 dia  
 - **Período de deploy:** 1 dia  
-- **Data:** 09/08/2025 – 10/08/2025  
-
+- **Data:** 23/09/2025 – 03/10/2025  
 </details>
 
 <details>
-  <summary><strong>✅ Sprint 6 – Implementação da barra de pesquisa animada</strong></summary>
+  <summary><strong>✅ Sprint 6 – Sistema de carrinho de compras</strong></summary>
 
-- **O que foi feito:** Criado botão que exibe/esconde o campo de busca com transição visual.  
+- **O que foi feito:** Implementação do carrinho com adição e remoção de produtos.  
 - **Desenvolvedor:** Maria Clara  
-- **Período de desenvolvimento:** 1 dia  
+- **Período de desenvolvimento:** 8 dias  
 - **Período de testes:** 1 dia  
-- **Período de revisão:** 1 dia  
+- **Período de revisão:** 2 dia  
 - **Período de deploy:** 1 dia  
-- **Data:** 11/08/2025 – 12/08/2025  
-
+- **Data:** 04/10/2025 – 16/10/2025  
 </details>
 
 <details>
-  <summary><strong>✅ Sprint 7 – Função de pesquisa por nome</strong></summary>
+  <summary><strong>✅ Sprint 7 – Cálculo do total no carrinho</strong></summary>
 
-- **O que foi feito:** Implementada função `pesquisarProduto()` com normalização e atualização dinâmica.  
+- **O que foi feito:** Exibição do valor total dos itens no carrinho.  
 - **Desenvolvedor:** Maria Clara  
-- **Período de desenvolvimento:** 1 dia  
+- **Período de desenvolvimento:** 7 dias  
 - **Período de testes:** 1 dia  
 - **Período de revisão:** 1 dia  
 - **Período de deploy:** 1 dia  
-- **Data:** 13/08/2025 – 14/08/2025  
-
+- **Data:** 17/10/2025 – 27/10/2025  
 </details>
 
 <details>
-  <summary><strong>✅ Sprint 8 – Criação e exibição do carrinho</strong></summary>
+  <summary><strong>✅ Sprint 8 – Layout responsivo</strong></summary>
 
-- **O que foi feito:** Criado `aside` fixo que exibe os itens do carrinho com botão de fechar.  
+- **O que foi feito:** Ajustes para responsividade em diferentes tamanhos de tela.  
 - **Desenvolvedor:** Maria Clara  
-- **Período de desenvolvimento:** 1 dia  
+- **Período de desenvolvimento:** 13 dias  
 - **Período de testes:** 1 dia  
 - **Período de revisão:** 1 dia  
 - **Período de deploy:** 1 dia  
-- **Data:** 15/08/2025 – 16/08/2025  
-
+- **Data:** 28/10/2025 – 14/11/2025  
 </details>
 
 <details>
-  <summary><strong>✅ Sprint 9 – Adicionar ao carrinho com controle de estoque</strong></summary>
+  <summary><strong>✅ Sprint 9 – Botão de finalizar compra</strong></summary>
 
-- **O que foi feito:** Implementada função `adicionarAoCarrinho(id)` com controle de quantidade e estoque.  
+- **O que foi feito:** Implementação de botão para simular finalização de compra.  
 - **Desenvolvedor:** Maria Clara  
-- **Período de desenvolvimento:** 1 dia  
+- **Período de desenvolvimento:** 7 dias  
 - **Período de testes:** 1 dia  
 - **Período de revisão:** 1 dia  
 - **Período de deploy:** 1 dia  
-- **Data:** 17/08/2025 – 18/08/2025  
-
+- **Data:** 15/11/2025 – 25/11/2025  
 </details>
 
 <details>
-  <summary><strong>✅ Sprint 10 – Contador de itens no carrinho</strong></summary>
+  <summary><strong>✅ Sprint 10 – Ajuste de imagens dos produtos</strong></summary>
 
-- **O que foi feito:** Ícone no topo com contador atualizado a cada adição.  
+- **O que foi feito:** Otimização e ajuste de imagens para melhor carregamento.  
 - **Desenvolvedor:** Maria Clara  
-- **Período de desenvolvimento:** 1 dia  
+- **Período de desenvolvimento:** 9 dias  
 - **Período de testes:** 1 dia  
 - **Período de revisão:** 1 dia  
 - **Período de deploy:** 1 dia  
-- **Data:** 19/08/2025 – 20/08/2025  
-
+- **Data:** 26/11/2025 – 08/12/2025  
 </details>
 
 <details>
-  <summary><strong>✅ Sprint 11 – Finalização da compra com validação de estoque</strong></summary>
+  <summary><strong>✅ Sprint 11 – Melhorias de performance</strong></summary>
 
-- **O que foi feito:** Validação do estoque antes da compra e decremento do mesmo após finalização.  
+- **O que foi feito:** Otimização do código JavaScript e CSS.  
 - **Desenvolvedor:** Maria Clara  
-- **Período de desenvolvimento:** 1 dia  
+- **Período de desenvolvimento:** 7 dias  
 - **Período de testes:** 1 dia  
 - **Período de revisão:** 1 dia  
 - **Período de deploy:** 1 dia  
-- **Data:** 21/08/2025 – 22/08/2025  
-
+- **Data:** 09/12/2025 – 19/12/2025  
 </details>
 
 <details>
-  <summary><strong>✅ Sprint 12 – Modal para visualização da imagem ampliada</strong></summary>
+  <summary><strong>✅ Sprint 12 – Criação de mensagens de feedback</strong></summary>
 
-- **O que foi feito:** Criado modal com fundo escuro que exibe imagem ampliada ao clicar.  
+- **O que foi feito:** Mensagens para avisar sobre ações como produto adicionado ao carrinho.  
 - **Desenvolvedor:** Maria Clara  
-- **Período de desenvolvimento:** 1 dia  
+- **Período de desenvolvimento:** 13 dias  
 - **Período de testes:** 1 dia  
 - **Período de revisão:** 1 dia  
 - **Período de deploy:** 1 dia  
-- **Data:** 23/08/2025 – 24/08/2025  
-
+- **Data:** 20/12/2025 – 06/01/2026  
 </details>
 
 <details>
-  <summary><strong>✅ Sprint 13 – Animações de hover e interações visuais</strong></summary>
+  <summary><strong>✅ Sprint 13 – Implementação de estoque</strong></summary>
 
-- **O que foi feito:** Animações de escala e hover em botões e produtos com Tailwind.  
+- **O que foi feito:** Controle de estoque simulando decremento ao adicionar produto no carrinho.  
 - **Desenvolvedor:** Maria Clara  
-- **Período de desenvolvimento:** 1 dia  
+- **Período de desenvolvimento:** 9 dias  
 - **Período de testes:** 1 dia  
 - **Período de revisão:** 1 dia  
 - **Período de deploy:** 1 dia  
-- **Data:** 25/08/2025 – 26/08/2025  
-
+- **Data:** 07/01/2026 – 19/01/2026  
 </details>
 
 <details>
-  <summary><strong>✅ Sprint 14 – Responsividade com grid Tailwind</strong></summary>
+  <summary><strong>✅ Sprint 14 – Correção de bugs</strong></summary>
 
-- **O que foi feito:** Layout adaptado com grid responsivo usando `grid-cols` para celular, tablet e desktop.  
+- **O que foi feito:** Ajustes em funcionalidades que não estavam funcionando corretamente.  
 - **Desenvolvedor:** Maria Clara  
-- **Período de desenvolvimento:** 1 dia  
+- **Período de desenvolvimento:** 7 dias  
 - **Período de testes:** 1 dia  
 - **Período de revisão:** 1 dia  
 - **Período de deploy:** 1 dia  
-- **Data:** 27/08/2025 – 28/08/2025  
-
+- **Data:** 20/01/2026 – 30/01/2026  
 </details>
 
 <details>
-  <summary><strong>✅ Sprint 15 – Função toggle de pesquisa com animação</strong></summary>
+  <summary><strong>✅ Sprint 15 – Melhoria no design visual</strong></summary>
 
-- **O que foi feito:** Alternância entre mostrar e ocultar o campo de busca.  
+- **O que foi feito:** Alterações de cores, fontes e espaçamentos para melhor aparência.  
 - **Desenvolvedor:** Maria Clara  
-- **Período de desenvolvimento:** 1 dia  
+- **Período de desenvolvimento:** 14 dias  
 - **Período de testes:** 1 dia  
 - **Período de revisão:** 1 dia  
 - **Período de deploy:** 1 dia  
-- **Data:** 29/08/2025 – 30/08/2025  
-
+- **Data:** 31/01/2026 – 17/02/2026  
 </details>
 
 <details>
-  <summary><strong>✅ Sprint 16 – Separação de arquivos JavaScript</strong></summary>
+  <summary><strong>✅ Sprint 16 – Adição de animações</strong></summary>
 
-- **O que foi feito:** Organização do código JS em arquivos separados por função (`main.js`, `categorias.js`).  
+- **O que foi feito:** Pequenas animações para transições e interações no site.  
 - **Desenvolvedor:** Maria Clara  
-- **Período de desenvolvimento:** 1 dia  
+- **Período de desenvolvimento:** 7 dias  
 - **Período de testes:** 1 dia  
 - **Período de revisão:** 1 dia  
 - **Período de deploy:** 1 dia  
-- **Data:** 31/08/2025 – 01/09/2025  
-
+- **Data:** 18/02/2026 – 28/02/2026  
 </details>
 
 <details>
-  <summary><strong>✅ Sprint 17 – Estrutura e exibição do aside do carrinho</strong></summary>
+  <summary><strong>✅ Sprint 17 – Criação de página de detalhes do produto</strong></summary>
 
-- **O que foi feito:** Carrinho com rolagem e exibição dos itens com nome e valor total.  
+- **O que foi feito:** Página separada para exibir informações completas de um produto.  
 - **Desenvolvedor:** Maria Clara  
-- **Período de desenvolvimento:** 1 dia  
+- **Período de desenvolvimento:** 10 dias  
 - **Período de testes:** 1 dia  
 - **Período de revisão:** 1 dia  
 - **Período de deploy:** 1 dia  
-- **Data:** 02/09/2025 – 03/09/2025  
-
+- **Data:** 01/03/2026 – 13/03/2026  
 </details>
 
 <details>
-  <summary><strong>✅ Sprint 18 – Função de reset do carrinho após compra</strong></summary>
+  <summary><strong>✅ Sprint 18 – Sistema de favoritos</strong></summary>
 
-- **O que foi feito:** Esvaziamento do array `carrinho[]` e atualização visual.  
+- **O que foi feito:** Funcionalidade para o usuário marcar produtos como favoritos.  
 - **Desenvolvedor:** Maria Clara  
-- **Período de desenvolvimento:** 1 dia  
+- **Período de desenvolvimento:** 14 dias  
 - **Período de testes:** 1 dia  
 - **Período de revisão:** 1 dia  
 - **Período de deploy:** 1 dia  
-- **Data:** 04/09/2025 – 05/09/2025  
-
+- **Data:** 14/03/2026 – 31/03/2026  
 </details>
 
 <details>
-  <summary><strong>✅ Sprint 19 – Função mostrarTodosProdutos()</strong></summary>
+  <summary><strong>✅ Sprint 19 – Testes de usabilidade</strong></summary>
 
-- **O que foi feito:** Botão que renderiza todos os produtos novamente.  
+- **O que foi feito:** Testes para avaliar a experiência do usuário no site.  
 - **Desenvolvedor:** Maria Clara  
-- **Período de desenvolvimento:** 1 dia  
+- **Período de desenvolvimento:** 7 dias  
 - **Período de testes:** 1 dia  
 - **Período de revisão:** 1 dia  
 - **Período de deploy:** 1 dia  
-- **Data:** 06/09/2025 – 07/09/2025  
-
+- **Data:** 01/04/2026 – 11/04/2026  
 </details>
 
 <details>
-  <summary><strong>✅ Sprint 20 – Testes e ajustes finais</strong></summary>
+  <summary><strong>✅ Sprint 20 – Documentação final</strong></summary>
 
-- **O que foi feito:** Testes de funcionalidade e ajustes de margin, espaçamentos e responsividade.  
+- **O que foi feito:** Registro de todas as etapas e funcionalidades implementadas.  
 - **Desenvolvedor:** Maria Clara  
-- **Período de desenvolvimento:** 1 dia  
+- **Período de desenvolvimento:** 9 dias  
 - **Período de testes:** 1 dia  
 - **Período de revisão:** 1 dia  
 - **Período de deploy:** 1 dia  
-- **Data:** 08/09/2025 – 09/09/2025  
-
+- **Data:** 12/04/2026 – 24/04/2026  
 </details>
 
 ### 👩‍💻 O que foi implementado por Maria Clara
