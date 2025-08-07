@@ -56,7 +56,7 @@ Os dados dos produtos foram simulados com arrays em JavaScript e são renderizad
 | 🔒 Implementar autenticação                  | 🖼️ Página de produto único | 🧱 Estrutura HTML completa |
 | 🧑‍💼 Criar painel administrativo             | 💳 Checkout                 | 🔍 Filtro de produtos      |
 | 🧪 Testes automatizados                      |                             | 🛒 Carrinho funcional       |
-| 🗄️ Integração com banco de dados (simulado) |                             | 🔗 API REST (GET/POST)     |
+| 🗂️ Simulação de dados com array de objetos (mock) |                             | 🔗 API REST (GET/POST)     |
 |                                              |                             | 🚀 Deploy no GitHub Pages  |
 |                                              |                             | 📘 README completo          |
 
@@ -345,7 +345,7 @@ Os dados dos produtos foram simulados com arrays em JavaScript e são renderizad
 ## 🌐 Deploy
 
 O projeto está disponível em:  
-https://github.com/Wazotti/LojaVirtual
+🔗 [Acesse o projeto da loja online](https://Wazotti/LojaVirtual/)
 
 ---
 
